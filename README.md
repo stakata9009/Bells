@@ -8,3 +8,5 @@ The app allows users to create their own schedules for starting and ending class
 The app allows to make temporary changes to the schedules. It allows to manually turn on the bell for starting or ending a class.
 
 This app is using a JSON file to store schedules (tables.json).
+
+The UI is in Bulgarian
